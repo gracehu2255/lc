@@ -2,6 +2,7 @@ package LaiOffer;
 
 /**
  * Created by yuehu on 11/9/19.
+ * //new one dev
  */
 public class BinarySearch {
     public int binarySearch(int[] array, int target) {
