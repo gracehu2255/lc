@@ -7,7 +7,7 @@ import java.util.Queue;
 
 /**
  * Created by yuehu on 12/8/19.
- * Assumptions: The graph is not null
+ * Assumptions: The graph is not null BFS
  */
 public class Bipartite {
     public boolean isBipartite(List<GraphNode> graph) {
